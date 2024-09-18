@@ -1,0 +1,28 @@
+.main img{
+    display: block;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+}
+
+.login {
+    text-decoration: none;
+    display: block;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+    border: 3px solid rgb(204, 34, 34);
+    text-align: center;
+    font-size: 30px;
+    border-radius: 15px;
+}
+  
+a:hover{
+    background-color: #b99cd3;
+}
+
+body{
+    background: rgb(151, 35, 252);
+}
